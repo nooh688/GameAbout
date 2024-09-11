@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "description": [
+        {
+          "heading": "Declarative",
+          "text": "React allows you to create interactive UIs easily by using a declarative approach, where you describe how your UI should look based on the application's state, and React takes care of updating the UI when the state changes."
+        },
+        {
+          "heading": "Component-Based",
+          "text": "React applications are built using components, which are reusable, self-contained pieces of UI. Components encapsulate their own logic and state, making it easier to manage and maintain complex UIs."
+        },
+        {
+          "heading": "Virtual DOM",
+          "text": "React uses a virtual DOM to optimize the performance of UI updates. Instead of directly manipulating the browser DOM, React creates a lightweight representation of the DOM in memory and compares it with the actual DOM to determine the minimal set of changes needed to update the UI efficiently."
+        },
+        {
+          "heading": "JSX",
+          "text": "React uses JSX (JavaScript XML) syntax, which allows you to write HTML-like code directly within your JavaScript code. JSX makes it easy to create and compose components in a familiar HTML-like syntax."
+        },
+        {
+          "heading": "Unidirectional Data Flow",
+          "text": "React follows a unidirectional data flow, where data flows down from parent components to child components via props. This makes it easier to understand how data is passed and modified within the application."
+        },
+        {
+          "heading": "Lifecycle Methods",
+          "text": "React components have lifecycle methods that allow you to hook into different stages of a component's life, such as when it's mounted to the DOM or updated. Lifecycle methods can be used to perform tasks like fetching data, updating the component's state, or cleaning up resources."
+        },
+        {
+          "heading": "React Hooks",
+          "text": "React introduced hooks in version 16.8, which provide a way to add state and other React features to functional components. Hooks allow you to use state and other React features without writing class components, making it easier to reuse logic between components."
+        }
+      ]
+    }
+  ]
+}
